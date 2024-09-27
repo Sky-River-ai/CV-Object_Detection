@@ -1,1 +1,1 @@
-# CV-Object_Detection
+Developed a computer vision model which identifies traffic objects and road
